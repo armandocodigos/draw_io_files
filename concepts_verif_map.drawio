@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oDXy_9Rk2nn9XtTFU9-2-30" value="&lt;div&gt;text_to_concept&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="430" width="200" height="160" as="geometry">
+          <mxGeometry x="640" y="420" width="200" height="160" as="geometry">
             <mxRectangle x="400" y="40" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
